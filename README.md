@@ -12,3 +12,6 @@ What is working:
 8) current song's elapsed time and total time
 9) Show current song's information
 10)Added Playlist support
+
+
+Youtube Channel : Ashlya Tech
